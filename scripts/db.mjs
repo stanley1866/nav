@@ -11472,7 +11472,7 @@ export default [
             nav: [
               {
                 icon: 'https://aotu.io/img/favicon-48x48.png',
-                name: '凹凸实验室',
+                name: '凹凸实验室test',
                 desc: 'O2面向多终端技术体系，致力于构建沉淀与分享包括但不限于交互、页面制作技巧...',
                 url: 'https://aotu.io/',
                 createdAt: '2021-01-23 09:32',
